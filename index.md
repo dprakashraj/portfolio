@@ -10,9 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Investment banking
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The main objective of the project is to discover the multibagger ruturns from stocks. It helps to find the high return
+stocks so that the fund manager can easily invest the excessive money.
+It also helps to identify the stocks from different sector such as health care, steel, etc. so fund manager easily
+pick the stocks from largecap, midcap and smallcap to make a balanced portfolio.
 
 ## Header 2
 
